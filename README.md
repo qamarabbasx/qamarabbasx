@@ -48,7 +48,7 @@
 <td width="50%" align="center">
   
   
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats.vercel.app/api?username=qamarabbax&show_icons=true&count_private=true" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github.com/qamarabbasx/qamarabbasx/blob/main/images/qamar-work-stats.png" /> 
 </td>
 
 <td width="50%" align="center">
