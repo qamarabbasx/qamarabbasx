@@ -83,7 +83,6 @@
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
-https://www.linkedin.com/in/qamar-abbas-8138b911a/
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/qamar-abbas-8138b911a/" target="blank"><img align="center" src="https://github.com/qamarabbasx/qamarabbasx/blob/main/images/linkedin.png" alt="linkedin" height="50" width="50" /></a>
